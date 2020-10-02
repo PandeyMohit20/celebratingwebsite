@@ -1,6 +1,6 @@
 Happy Birthday
 
-A Happy Birthday animation design in CSS3, HTML5.
+With the help of CSS3,HTML5  design a Birthday Special 
 
 URL: https://pandeymohit20.github.io/celebratingwebsite/
 
